@@ -6,15 +6,21 @@ To be updated
 
 ## Usage
 
-``` source setup.sh ```
+```
+source setup.sh
+```
 
 After the setup, to activate the environment:
 
-``` workon kivyenv ```
+```
+workon kivyenv
+```
 
 To deactivate:
 
-``` deactivate ```
+```
+deactivate
+```
 
 ## Rquirements
 
